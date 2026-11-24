@@ -19,3 +19,24 @@ Seat Reservation: Select seats for the chosen show.
 Ticket Booking: Complete ticket reservations.
 
 Offline Operation: Use the application without an internet connection.
+🛠️ Technologies Used
+
+Programming Language: C++
+
+Development Environment: Visual Studio Code (VS Code)
+
+Database: Sqlite
+
+🎯 Learning Objectives
+
+Through this project, I explored:
+
+Programming fundamentals and logical problem-solving.
+
+Basic reservation and booking workflows.
+
+User input handling and application logic.
+
+Seat selection and ticket management concepts.
+
+Development of an offline software application.
